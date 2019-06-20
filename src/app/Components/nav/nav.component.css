@@ -1,0 +1,12 @@
+.path {
+	fill: white;
+}
+.name {
+	display: inline-table;
+	font-size: 1.15rem;
+	line-height: 5px;
+}
+.little {
+	font-size: .8rem;
+	line-height: 2rem;
+}
