@@ -10,3 +10,8 @@
 	font-size: .8rem;
 	line-height: 2rem;
 }
+
+.caja {
+	display: inline-block;
+	min-width: 50px;
+}
